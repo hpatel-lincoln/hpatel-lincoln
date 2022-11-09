@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @hpatel-lincoln
-- 👀 I’m interested in iOS Development, AR, Smart Contracts
-- 🌱 I’m currently learning EVM and Solidity
+- 👀 I’m interested in iOS Development and Smart Contracts
 - 💞️ I’m looking to collaborate on Social Recovery wallet for iOS and Android
 
 <!---
